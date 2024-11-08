@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1666988997 source:c:\users\alyssa\documents\cis_d022a\studentdqi\main.cpp
+	<iostream>
+	<fstream>
+	"Student.h"
+	"StudentDQI.h"
+
+1666988721 c:\users\alyssa\documents\cis_d022a\studentdqi\student.h
+	<iostream>
+
+1667061470 c:\users\alyssa\documents\cis_d022a\studentdqi\studentdqi.h
+	<iostream>
+	"Student.h"
+	"StudentESA.h"
+
+1666988783 c:\users\alyssa\documents\cis_d022a\studentdqi\studentesa.h
+	"Student.h"
+	"ElementESA.h"
+
+1666988783 c:\users\alyssa\documents\cis_d022a\studentdqi\elementesa.h
+	"Student.h"
+	<iostream>
+	<string>
+
